@@ -1,0 +1,241 @@
+2022/10/24 15:54:45 Start app
+2022/10/24 15:54:45 Lab № 1 was started by student: Maxim Stolyarov
+2022/10/24 15:54:45 Lab № 1 was started by student: Ivan Virolainen
+2022/10/24 15:54:45 Lab № 1 was started by student: Nikita Tatarskikh
+2022/10/24 15:54:46 Lab № 1 completed by student: Nikita Tatarskikh
+2022/10/24 15:54:46 Lab № 1 completed by student: Maxim Stolyarov
+2022/10/24 15:54:46 Lab № 2 was started by student: Maxim Stolyarov
+2022/10/24 15:54:46 Lab № 1 completed by student: Ivan Virolainen
+2022/10/24 15:54:46 Lab № 2 was started by student: Ivan Virolainen
+2022/10/24 15:54:46 Teacher Vitaly Koshelev started checking lab № 1 sent by Ivan Virolainen
+2022/10/24 15:54:46 Teacher Ivan Holopov started checking lab № 1 sent by Nikita Tatarskikh
+2022/10/24 15:54:46 Lab № 2 was started by student: Nikita Tatarskikh
+2022/10/24 15:54:47 Lab № 2 completed by student: Nikita Tatarskikh
+2022/10/24 15:54:47 Lab № 3 was started by student: Nikita Tatarskikh
+2022/10/24 15:54:47 Lab № 2 completed by student: Ivan Virolainen
+2022/10/24 15:54:47 Lab № 3 was started by student: Ivan Virolainen
+2022/10/24 15:54:47 Lab № 2 completed by student: Maxim Stolyarov
+2022/10/24 15:54:47 Lab № 3 was started by student: Maxim Stolyarov
+2022/10/24 15:54:47 Teacher Ivan Holopov accepted lab № 1 sent by student Nikita Tatarskikh
+2022/10/24 15:54:47 Teacher Ivan Holopov started checking lab № 1 sent by Maxim Stolyarov
+2022/10/24 15:54:47 Teacher Vitaly Koshelev accepted lab № 1 sent by student Ivan Virolainen
+2022/10/24 15:54:47 Teacher Vitaly Koshelev started checking lab № 2 sent by Nikita Tatarskikh
+2022/10/24 15:54:47 Student: Nikita Tatarskikh has accepted labs 1
+2022/10/24 15:54:47 Student: Maxim Stolyarov has accepted labs 1
+2022/10/24 15:54:48 Lab № 3 completed by student: Ivan Virolainen
+2022/10/24 15:54:48 Lab № 4 was started by student: Ivan Virolainen
+2022/10/24 15:54:48 Lab № 3 completed by student: Nikita Tatarskikh
+2022/10/24 15:54:48 Lab № 4 was started by student: Nikita Tatarskikh
+2022/10/24 15:54:48 Teacher Ivan Holopov rejected lab № 1 sent by Maxim Stolyarov
+2022/10/24 15:54:48 Teacher Ivan Holopov started checking lab № 2 sent by Ivan Virolainen
+2022/10/24 15:54:48 Lab № 3 completed by student: Maxim Stolyarov
+2022/10/24 15:54:48 Student: Nikita Tatarskikh started correcting Lab № 2
+2022/10/24 15:54:48 Lab № 4 was started by student: Maxim Stolyarov
+2022/10/24 15:54:48 Student: Maxim Stolyarov started correcting Lab № 1
+2022/10/24 15:54:48 Teacher Vitaly Koshelev rejected lab № 2 sent by Nikita Tatarskikh
+2022/10/24 15:54:48 Teacher Vitaly Koshelev started checking lab № 2 sent by Maxim Stolyarov
+2022/10/24 15:54:49 Teacher Ivan Holopov accepted lab № 2 sent by student Ivan Virolainen
+2022/10/24 15:54:49 Teacher Ivan Holopov started checking lab № 3 sent by Ivan Virolainen
+2022/10/24 15:54:49 Student: Nikita Tatarskikh sent corrected Lab № 2
+2022/10/24 15:54:49 Lab № 4 completed by student: Ivan Virolainen
+2022/10/24 15:54:49 Lab № 5 was started by student: Ivan Virolainen
+2022/10/24 15:54:49 Lab № 4 completed by student: Nikita Tatarskikh
+2022/10/24 15:54:49 Lab № 5 was started by student: Nikita Tatarskikh
+2022/10/24 15:54:49 Lab № 4 completed by student: Maxim Stolyarov
+2022/10/24 15:54:49 Student: Ivan Virolainen has accepted labs 1
+2022/10/24 15:54:49 Teacher Vitaly Koshelev accepted lab № 2 sent by student Maxim Stolyarov
+2022/10/24 15:54:49 Teacher Vitaly Koshelev started checking lab № 3 sent by Nikita Tatarskikh
+2022/10/24 15:54:49 Lab № 5 was started by student: Maxim Stolyarov
+2022/10/24 15:54:49 Student: Maxim Stolyarov sent corrected Lab № 1
+2022/10/24 15:54:49 Student: Nikita Tatarskikh has accepted labs 2
+2022/10/24 15:54:50 Lab № 5 completed by student: Maxim Stolyarov
+2022/10/24 15:54:50 Lab № 5 completed by student: Nikita Tatarskikh
+2022/10/24 15:54:50 Lab № 6 was started by student: Nikita Tatarskikh
+2022/10/24 15:54:50 Lab № 6 was started by student: Maxim Stolyarov
+2022/10/24 15:54:50 Teacher Ivan Holopov rejected lab № 3 sent by Ivan Virolainen
+2022/10/24 15:54:50 Teacher Ivan Holopov started checking lab № 3 sent by Maxim Stolyarov
+2022/10/24 15:54:50 Student: Nikita Tatarskikh started correcting Lab № 3
+2022/10/24 15:54:50 Lab № 5 completed by student: Ivan Virolainen
+2022/10/24 15:54:50 Lab № 6 was started by student: Ivan Virolainen
+2022/10/24 15:54:50 Teacher Vitaly Koshelev rejected lab № 3 sent by Nikita Tatarskikh
+2022/10/24 15:54:50 Teacher Vitaly Koshelev started checking lab № 2 sent by Nikita Tatarskikh
+2022/10/24 15:54:50 Student: Ivan Virolainen started correcting Lab № 3
+2022/10/24 15:54:51 Student: Nikita Tatarskikh sent corrected Lab № 3
+2022/10/24 15:54:51 Student: Ivan Virolainen sent corrected Lab № 3
+2022/10/24 15:54:51 Lab № 6 completed by student: Ivan Virolainen
+2022/10/24 15:54:51 Lab № 7 was started by student: Ivan Virolainen
+2022/10/24 15:54:51 Lab № 6 completed by student: Maxim Stolyarov
+2022/10/24 15:54:51 Lab № 6 completed by student: Nikita Tatarskikh
+2022/10/24 15:54:51 Lab № 7 was started by student: Maxim Stolyarov
+2022/10/24 15:54:51 Lab № 7 was started by student: Nikita Tatarskikh
+2022/10/24 15:54:51 Teacher Vitaly Koshelev accepted lab № 2 sent by student Nikita Tatarskikh
+2022/10/24 15:54:51 Student: Ivan Virolainen has accepted labs 2
+2022/10/24 15:54:51 Student: Maxim Stolyarov has accepted labs 2
+2022/10/24 15:54:51 Teacher Ivan Holopov accepted lab № 3 sent by student Maxim Stolyarov
+2022/10/24 15:54:51 Teacher Ivan Holopov started checking lab № 4 sent by Nikita Tatarskikh
+2022/10/24 15:54:51 Teacher Vitaly Koshelev started checking lab № 4 sent by Ivan Virolainen
+2022/10/24 15:54:52 Teacher Vitaly Koshelev accepted lab № 4 sent by student Ivan Virolainen
+2022/10/24 15:54:52 Teacher Vitaly Koshelev started checking lab № 4 sent by Maxim Stolyarov
+2022/10/24 15:54:52 Lab № 7 completed by student: Maxim Stolyarov
+2022/10/24 15:54:52 Lab № 8 was started by student: Maxim Stolyarov
+2022/10/24 15:54:52 Teacher Ivan Holopov accepted lab № 4 sent by student Nikita Tatarskikh
+2022/10/24 15:54:52 Teacher Ivan Holopov started checking lab № 1 sent by Maxim Stolyarov
+2022/10/24 15:54:52 Student: Ivan Virolainen has accepted labs 3
+2022/10/24 15:54:52 Lab № 7 completed by student: Nikita Tatarskikh
+2022/10/24 15:54:52 Lab № 8 was started by student: Nikita Tatarskikh
+2022/10/24 15:54:52 Student: Nikita Tatarskikh has accepted labs 3
+2022/10/24 15:54:52 Lab № 7 completed by student: Ivan Virolainen
+2022/10/24 15:54:52 Lab № 8 was started by student: Ivan Virolainen
+2022/10/24 15:54:53 Teacher Vitaly Koshelev accepted lab № 4 sent by student Maxim Stolyarov
+2022/10/24 15:54:53 Teacher Ivan Holopov accepted lab № 1 sent by student Maxim Stolyarov
+2022/10/24 15:54:53 Teacher Ivan Holopov started checking lab № 5 sent by Ivan Virolainen
+2022/10/24 15:54:53 Student: Ivan Virolainen has accepted labs 4
+2022/10/24 15:54:53 Lab № 8 completed by student: Nikita Tatarskikh
+2022/10/24 15:54:53 Lab № 8 completed by student: Maxim Stolyarov
+2022/10/24 15:54:53 Lab № 8 completed by student: Ivan Virolainen
+2022/10/24 15:54:53 Student: Maxim Stolyarov has accepted labs 3
+2022/10/24 15:54:53 Teacher Vitaly Koshelev started checking lab № 5 sent by Maxim Stolyarov
+2022/10/24 15:54:54 Teacher Vitaly Koshelev rejected lab № 5 sent by Maxim Stolyarov
+2022/10/24 15:54:54 Student: Maxim Stolyarov started correcting Lab № 5
+2022/10/24 15:54:54 Teacher Vitaly Koshelev started checking lab № 5 sent by Nikita Tatarskikh
+2022/10/24 15:54:54 Teacher Ivan Holopov rejected lab № 5 sent by Ivan Virolainen
+2022/10/24 15:54:54 Teacher Ivan Holopov started checking lab № 3 sent by Nikita Tatarskikh
+2022/10/24 15:54:54 Student: Nikita Tatarskikh started correcting Lab № 5
+2022/10/24 15:54:55 Student: Maxim Stolyarov sent corrected Lab № 5
+2022/10/24 15:54:55 Student: Maxim Stolyarov started correcting Lab № 3
+2022/10/24 15:54:55 Student: Nikita Tatarskikh sent corrected Lab № 5
+2022/10/24 15:54:55 Teacher Vitaly Koshelev rejected lab № 5 sent by Nikita Tatarskikh
+2022/10/24 15:54:55 Teacher Vitaly Koshelev started checking lab № 3 sent by Ivan Virolainen
+2022/10/24 15:54:55 Student: Ivan Virolainen started correcting Lab № 5
+2022/10/24 15:54:55 Teacher Ivan Holopov rejected lab № 3 sent by Nikita Tatarskikh
+2022/10/24 15:54:55 Teacher Ivan Holopov started checking lab № 6 sent by Ivan Virolainen
+2022/10/24 15:54:56 Teacher Vitaly Koshelev accepted lab № 3 sent by student Ivan Virolainen
+2022/10/24 15:54:56 Student: Nikita Tatarskikh has accepted labs 4
+2022/10/24 15:54:56 Teacher Vitaly Koshelev started checking lab № 6 sent by Maxim Stolyarov
+2022/10/24 15:54:56 Student: Maxim Stolyarov sent corrected Lab № 3
+2022/10/24 15:54:56 Student: Ivan Virolainen sent corrected Lab № 5
+2022/10/24 15:54:56 Teacher Ivan Holopov accepted lab № 6 sent by student Ivan Virolainen
+2022/10/24 15:54:56 Teacher Ivan Holopov started checking lab № 6 sent by Nikita Tatarskikh
+2022/10/24 15:54:56 Student: Ivan Virolainen has accepted labs 5
+2022/10/24 15:54:57 Teacher Vitaly Koshelev accepted lab № 6 sent by student Maxim Stolyarov
+2022/10/24 15:54:57 Teacher Vitaly Koshelev started checking lab № 7 sent by Nikita Tatarskikh
+2022/10/24 15:54:57 Teacher Ivan Holopov accepted lab № 6 sent by student Nikita Tatarskikh
+2022/10/24 15:54:57 Teacher Ivan Holopov started checking lab № 7 sent by Ivan Virolainen
+2022/10/24 15:54:57 Student: Nikita Tatarskikh has accepted labs 5
+2022/10/24 15:54:57 Student: Maxim Stolyarov has accepted labs 4
+2022/10/24 15:54:58 Teacher Ivan Holopov rejected lab № 7 sent by Ivan Virolainen
+2022/10/24 15:54:58 Student: Maxim Stolyarov started correcting Lab № 7
+2022/10/24 15:54:58 Teacher Ivan Holopov started checking lab № 7 sent by Maxim Stolyarov
+2022/10/24 15:54:58 Teacher Vitaly Koshelev rejected lab № 7 sent by Nikita Tatarskikh
+2022/10/24 15:54:58 Teacher Vitaly Koshelev started checking lab № 8 sent by Ivan Virolainen
+2022/10/24 15:54:58 Student: Nikita Tatarskikh started correcting Lab № 7
+2022/10/24 15:54:59 Student: Nikita Tatarskikh sent corrected Lab № 7
+2022/10/24 15:54:59 Teacher Ivan Holopov rejected lab № 7 sent by Maxim Stolyarov
+2022/10/24 15:54:59 Teacher Ivan Holopov started checking lab № 8 sent by Nikita Tatarskikh
+2022/10/24 15:54:59 Student: Ivan Virolainen started correcting Lab № 7
+2022/10/24 15:54:59 Teacher Vitaly Koshelev rejected lab № 8 sent by Ivan Virolainen
+2022/10/24 15:54:59 Student: Nikita Tatarskikh started correcting Lab № 8
+2022/10/24 15:54:59 Teacher Vitaly Koshelev started checking lab № 8 sent by Maxim Stolyarov
+2022/10/24 15:54:59 Student: Maxim Stolyarov sent corrected Lab № 7
+2022/10/24 15:55:00 Teacher Vitaly Koshelev accepted lab № 8 sent by student Maxim Stolyarov
+2022/10/24 15:55:00 Student: Ivan Virolainen sent corrected Lab № 7
+2022/10/24 15:55:00 Student: Nikita Tatarskikh sent corrected Lab № 8
+2022/10/24 15:55:00 Teacher Vitaly Koshelev started checking lab № 5 sent by Maxim Stolyarov
+2022/10/24 15:55:00 Student: Ivan Virolainen has accepted labs 6
+2022/10/24 15:55:00 Teacher Ivan Holopov accepted lab № 8 sent by student Nikita Tatarskikh
+2022/10/24 15:55:00 Teacher Ivan Holopov started checking lab № 5 sent by Nikita Tatarskikh
+2022/10/24 15:55:00 Student: Nikita Tatarskikh has accepted labs 6
+2022/10/24 15:55:01 Teacher Ivan Holopov accepted lab № 5 sent by student Nikita Tatarskikh
+2022/10/24 15:55:01 Teacher Ivan Holopov started checking lab № 3 sent by Maxim Stolyarov
+2022/10/24 15:55:01 Teacher Vitaly Koshelev accepted lab № 5 sent by student Maxim Stolyarov
+2022/10/24 15:55:01 Student: Maxim Stolyarov has accepted labs 5
+2022/10/24 15:55:01 Student: Ivan Virolainen has accepted labs 7
+2022/10/24 15:55:01 Teacher Vitaly Koshelev started checking lab № 5 sent by Ivan Virolainen
+2022/10/24 15:55:02 Teacher Ivan Holopov rejected lab № 3 sent by Maxim Stolyarov
+2022/10/24 15:55:02 Teacher Ivan Holopov started checking lab № 7 sent by Nikita Tatarskikh
+2022/10/24 15:55:02 Teacher Vitaly Koshelev rejected lab № 5 sent by Ivan Virolainen
+2022/10/24 15:55:02 Teacher Vitaly Koshelev started checking lab № 7 sent by Maxim Stolyarov
+2022/10/24 15:55:02 Student: Ivan Virolainen started correcting Lab № 5
+2022/10/24 15:55:02 Student: Maxim Stolyarov started correcting Lab № 3
+2022/10/24 15:55:03 Student: Maxim Stolyarov sent corrected Lab № 3
+2022/10/24 15:55:03 Student: Ivan Virolainen sent corrected Lab № 5
+2022/10/24 15:55:03 Teacher Ivan Holopov rejected lab № 7 sent by Nikita Tatarskikh
+2022/10/24 15:55:03 Teacher Ivan Holopov started checking lab № 8 sent by Nikita Tatarskikh
+2022/10/24 15:55:03 Teacher Vitaly Koshelev rejected lab № 7 sent by Maxim Stolyarov
+2022/10/24 15:55:03 Teacher Vitaly Koshelev started checking lab № 7 sent by Ivan Virolainen
+2022/10/24 15:55:03 Student: Nikita Tatarskikh started correcting Lab № 7
+2022/10/24 15:55:03 Student: Maxim Stolyarov started correcting Lab № 7
+2022/10/24 15:55:04 Student: Maxim Stolyarov sent corrected Lab № 7
+2022/10/24 15:55:04 Teacher Vitaly Koshelev rejected lab № 7 sent by Ivan Virolainen
+2022/10/24 15:55:04 Teacher Vitaly Koshelev started checking lab № 3 sent by Maxim Stolyarov
+2022/10/24 15:55:04 Student: Nikita Tatarskikh sent corrected Lab № 7
+2022/10/24 15:55:04 Student: Ivan Virolainen started correcting Lab № 7
+2022/10/24 15:55:04 Student: Maxim Stolyarov started correcting Lab № 8
+2022/10/24 15:55:04 Teacher Ivan Holopov rejected lab № 8 sent by Nikita Tatarskikh
+2022/10/24 15:55:04 Teacher Ivan Holopov started checking lab № 5 sent by Ivan Virolainen
+2022/10/24 15:55:05 Teacher Ivan Holopov accepted lab № 5 sent by student Ivan Virolainen
+2022/10/24 15:55:05 Teacher Ivan Holopov started checking lab № 7 sent by Maxim Stolyarov
+2022/10/24 15:55:05 Student: Ivan Virolainen sent corrected Lab № 7
+2022/10/24 15:55:05 Student: Maxim Stolyarov sent corrected Lab № 8
+2022/10/24 15:55:05 Student: Nikita Tatarskikh has accepted labs 7
+2022/10/24 15:55:05 Teacher Vitaly Koshelev accepted lab № 3 sent by student Maxim Stolyarov
+2022/10/24 15:55:05 Teacher Vitaly Koshelev started checking lab № 7 sent by Nikita Tatarskikh
+2022/10/24 15:55:05 Student: Maxim Stolyarov has accepted labs 6
+2022/10/24 15:55:06 Teacher Ivan Holopov accepted lab № 7 sent by student Maxim Stolyarov
+2022/10/24 15:55:06 Student: Ivan Virolainen has accepted labs 8
+2022/10/24 15:55:06 Teacher Ivan Holopov started checking lab № 8 sent by Maxim Stolyarov
+2022/10/24 15:55:06 [COMPLETED] Student: Ivan Virolainen completed all labs 8
+2022/10/24 15:55:06 Teacher Vitaly Koshelev accepted lab № 7 sent by student Nikita Tatarskikh
+2022/10/24 15:55:06 [RECEIVED students chan done CheckLabs]
+2022/10/24 15:55:06 Student: Nikita Tatarskikh has accepted labs 8
+2022/10/24 15:55:06 [COMPLETED] Student: Nikita Tatarskikh completed all labs 8
+2022/10/24 15:55:06 [LAB DONE CHAN]
+2022/10/24 15:55:06 [LAB DONE CHAN]
+2022/10/24 15:55:07 Teacher Ivan Holopov rejected lab № 8 sent by Maxim Stolyarov
+2022/10/24 15:55:07 [RECEIVED students chan done CheckLabs]
+2022/10/24 15:55:07 Student: Maxim Stolyarov started correcting Lab № 8
+2022/10/24 15:55:08 Student: Maxim Stolyarov sent corrected Lab № 8
+fatal error: all goroutines are asleep - deadlock!
+
+goroutine 1 [semacquire]:
+sync.runtime_Semacquire(0x0)
+        /Users/nikitatatarskikh/go/go1.17.8/src/runtime/sema.go:56 +0x25
+sync.(*WaitGroup).Wait(0xc000105f60)
+        /Users/nikitatatarskikh/go/go1.17.8/src/sync/waitgroup.go:130 +0x71
+main.main()
+        /Users/nikitatatarskikh/Desktop/b2broker-task/main.go:40 +0x40f
+
+goroutine 6 [semacquire]:
+sync.runtime_Semacquire(0x0)
+        /Users/nikitatatarskikh/go/go1.17.8/src/runtime/sema.go:56 +0x25
+sync.(*WaitGroup).Wait(0x0)
+        /Users/nikitatatarskikh/go/go1.17.8/src/sync/waitgroup.go:130 +0x71
+b2broker-task/domain.StudentWorkerPool.DoTasks({{0xc00011a000, 0x0, 0x0}}, 0xc0000241e0, 0xc000024240, 0xc0000242a0, 0xc000024300, 0xc00001e0c0, 0xc00001e120, 0xc0000180e0)
+        /Users/nikitatatarskikh/Desktop/b2broker-task/domain/student.go:110 +0x194
+created by main.main
+        /Users/nikitatatarskikh/Desktop/b2broker-task/main.go:33 +0x325
+
+goroutine 19 [semacquire]:
+sync.runtime_Semacquire(0x0)
+        /Users/nikitatatarskikh/go/go1.17.8/src/runtime/sema.go:56 +0x25
+sync.(*WaitGroup).Wait(0x0)
+        /Users/nikitatatarskikh/go/go1.17.8/src/sync/waitgroup.go:130 +0x71
+b2broker-task/domain.(*Student).DoLab(0xc00011a070, 0xc0000241e0, 0xc000024240, 0xc0000242a0, 0x0, 0xc00001e0c0, 0xc00001e120, 0x0)
+        /Users/nikitatatarskikh/Desktop/b2broker-task/domain/student.go:88 +0x219
+created by b2broker-task/domain.StudentWorkerPool.DoTasks
+        /Users/nikitatatarskikh/Desktop/b2broker-task/domain/student.go:107 +0x74
+
+goroutine 21 [chan receive]:
+b2broker-task/domain.(*Student).DoLab.func2()
+        /Users/nikitatatarskikh/Desktop/b2broker-task/domain/student.go:39 +0xcf
+created by b2broker-task/domain.(*Student).DoLab
+        /Users/nikitatatarskikh/Desktop/b2broker-task/domain/student.go:37 +0x16f
+
+goroutine 22 [select]:
+b2broker-task/domain.(*Student).DoLab.func3()
+        /Users/nikitatatarskikh/Desktop/b2broker-task/domain/student.go:60 +0x35e
+created by b2broker-task/domain.(*Student).DoLab
+        /Users/nikitatatarskikh/Desktop/b2broker-task/domain/student.go:57 +0x20f
+
+Process finished with the exit code 2
+
